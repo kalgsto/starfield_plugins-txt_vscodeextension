@@ -10,6 +10,7 @@ Designed specifically for modders and players managing their plugins in:
 `%LOCALAPPDATA%\Starfield\plugins.txt` (or `%APPDATA%\Local\Starfield\Plugins.txt`).
 
 ---
+<img width="1161" height="437" alt="image" src="https://github.com/user-attachments/assets/dcdbd8fa-c84c-4cb8-8985-66c92dec1b7e" />
 
 ## 🎨 Visual Color-Coding
 
